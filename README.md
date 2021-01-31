@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [sinan_ganiz@hotmail.com](mailto:sinan_ganiz@hotmail.com)
 
 [Twitter - @sinanganizz] https://twitter.com/sinanganizz
-
-<img src="https://github-readme-stats.vercel.app/api?username=sinanganizz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
